@@ -1,0 +1,2 @@
+# Bilgisayar_Oyunlarinda_Yapay_Zeka_6_Hafta_Odev
+Artificial Intelligence in Computer Games Week Six Homework
